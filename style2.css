@@ -1,0 +1,157 @@
+.navlist{
+    margin-left: 600px;
+    
+}
+
+.navbar li{
+    /* margin-right: 20px; */
+    display: flex;
+    align-items: center;
+    align-items: flex-start;
+    
+}
+.navbar{
+    background-color: #596270;
+}
+/* 
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: skyblue;
+    margin-top: 20px;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container ul li{
+    float:left;
+    list-style: none;
+    width:20%;
+    height:300px;
+    background: red;
+    margin :20px 0px 20px 55px; 
+    border:2px solid blue;
+    box-sizing: border-box;
+}
+.container ul li:hover{
+    opacity: 0.8;
+}
+
+.container ul li .bottom{
+    width: 100%;
+    height:50px;
+    line-height: 50px;
+    background: blue;    
+    text-align: center;
+    color:white;
+    font-size: 20px;
+   
+}
+
+@media screen and (max-width:1250px){
+    .container ul li{
+        width:40%;
+        margin-left: 40px;
+         
+    }
+} */
+
+.main{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+/* .container{
+    width: 800px;
+    margin: 50px auto 0;
+} */
+
+.main{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 800px;
+    margin: 50px auto 0;
+    display: table;
+    box-sizing: border-box;
+}
+
+.row{
+    margin: 20px 0;
+    /* border-left: 10px solid #ffffff; */
+
+}
+
+.col{
+    background: #000000;
+    display: table-cell;
+    padding: 10px;
+    width: 33.33333%;
+    text-align: center;
+    color: #ffffff;
+    vertical-align: middle;
+    /* border-right: 10px solid #7778d7; */
+    /* border-left: 10px solid #7778d7; */
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.row:nth-child(1) .col:nth-child(1){
+    background: #596270;
+}
+.row:nth-child(1) .col:nth-child(2){
+    background: #cf6768;
+}
+.row:nth-child(1) .col:nth-child(3){
+    background: #596270;
+}
+.row:nth-child(2) .col:nth-child(1){
+    background: #00acc1;
+}
+.row:nth-child(2) .col:nth-child(2){
+    background: #ff4350;
+}
+.row:nth-child(2) .col:nth-child(3){
+    background: #72768a;
+}
+
+@media (max-width: 900px){
+    .container{
+        margin: 0;
+        padding: 10px;
+        width: 100px;
+    }
+    .col{
+        width: 100%;
+        display: block;
+        margin: 10px 0;
+        border: none;
+        box-sizing: border-box;
+    }
+    .row{
+        margin: 0;
+
+    }
+}
+
+.container p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.container{
+    margin-top: 70px;
+}
+.container img{
+    margin-top: 20px;
+}
+
