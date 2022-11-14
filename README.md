@@ -29,3 +29,8 @@ playlist and notes =>
 ![image](https://user-images.githubusercontent.com/97785855/201684122-36121bfe-8c3f-4943-887d-cc0c08711f4f.png)
 
 
+![image](https://user-images.githubusercontent.com/97785855/201685201-e26133dd-66bf-4e50-ad28-48fc0ad6d555.png)
+
+
+task manager =>
+![image](https://user-images.githubusercontent.com/97785855/201685332-c975d694-75be-488e-aa59-2e01b72d9b7e.png)
