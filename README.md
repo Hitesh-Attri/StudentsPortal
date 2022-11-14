@@ -22,3 +22,10 @@ After login, access data =>
 ![image](https://user-images.githubusercontent.com/97785855/201683562-c8b248ea-3877-46a9-9b3c-8497b1e0b0a0.png)
 
 
+playlist and notes =>
+![image](https://user-images.githubusercontent.com/97785855/201684053-a485e8be-f69e-44d5-863a-f94e2c6227ef.png)
+
+
+![image](https://user-images.githubusercontent.com/97785855/201684122-36121bfe-8c3f-4943-887d-cc0c08711f4f.png)
+
+
